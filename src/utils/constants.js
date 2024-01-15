@@ -184,7 +184,7 @@ export const skillsData = [
 export const workData = [
   {
     company: "DIGITPOL",
-    designation: "Web Developer & Automation Expert",
+    designation: "Web Developer _ Automation Expert",
     duration: "September 2022 - May 2023",
     companyImg: "rubika.png",
     description: (
@@ -353,7 +353,7 @@ export const projectsData = [
   {
     type: "Automation",
     title: "Web Scraping and File Download Script",
-    image: "pdf&mp3_downloader",
+    image: "pdf_mp3_downloader",
     link: "https://drive.google.com/file/d/1eJHEY_-FR-wwVOaV-_YZGTKIwPx72ayI/view?usp=drive_link",
     source: "https://github.com/DevRex-0201/Py-Scraping-PDF-MP3-Downloader",
   },
